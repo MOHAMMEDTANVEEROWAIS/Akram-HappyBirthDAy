@@ -5,7 +5,7 @@
   "main": " ",
   "scripts": {
     "server-node": "http-server -p 8081",
-    "start": "node effect.js"
+    "start": "node your-script.js"
   },
   "repository": {
     "type": "git",
